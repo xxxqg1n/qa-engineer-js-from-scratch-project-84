@@ -1,12 +1,13 @@
 ---
-name: Roman Protsyuk 
+name: Roman Protsyuk # Ваше имя
 job: QA Engineer
 level: junior
-email: morkovvvvv@gmail.com
+email: Roman@hexlet.io
 description: |
-  Только вкатываюсь, пока что я нолик.
+  Это текст-описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя
 
-skills:
+  Текст может быть написан в несколько абзацев
+skills: # список навыков в виде списка, напишите что-то свое
   - Функциональное тестирование
   - Написание багрепортов
   - Windows11
